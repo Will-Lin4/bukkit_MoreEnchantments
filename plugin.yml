@@ -1,0 +1,9 @@
+name: MoreEnchantments
+author: Xeroun
+main: me.Xeroun.MoreEnchantments.MoreEnchantments
+version: 1.0
+loadbefore: [KingKits]
+commands:
+    enchantplus:
+        usage: /enchantplus (args)
+        description: Base Command for the plugin
